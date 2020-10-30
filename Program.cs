@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ListSlices
+namespace ListSlicer
 {
     class Program
     {
